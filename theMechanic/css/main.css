@@ -1,0 +1,82 @@
+.banner{
+   background-image: url(../images/img-banner.jpeg);
+   /*
+    * Image taken from https://www.pexels.com/photo/set-of-tool-wrench-162553/
+    */
+   background-position: 30% 30%;
+   background-repeat:  no-repeat;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+   border: 3px solid black;
+   background-color: black;
+   height: 180px;
+}
+
+.logo{
+    border: 3px solid black;
+    border-radius: 50%;
+    margin-top: 12px;
+    margin-left: 12px;
+}
+
+.title{
+    border: 3px solid black;
+    font-size: 80px;
+    font-weight: bold;
+    font-family: 'Raleway', sans-serif;
+    color: #FF4136;
+    display: inline-block;
+    margin: 0;
+}
+
+.header{
+    border: 3px solid black;
+    background-color: #0074D9;
+    height: 60px;
+}
+
+.header-text{
+    border: 2px solid black;
+    font-size: 28px;
+    font-weight: bold;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    margin-left: 0px;
+    color: white;
+}
+
+.main-body{
+    border: 3px solid black;
+    background-color: white;
+}
+
+.footer{
+    border: 3px solid black;
+    background-color: #2ECC40;
+    height: 60px;
+}
+
+.footer-text{
+    border: 2px solid black;
+    font-size: 28px;
+    font-weight: bold;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    color: white;
+    margin-left: 0px;
+}
+
+.footer-content{
+    border: 3px solid black;
+    background-color: #1a1a1a;
+    height: 250px;
+    color: white;
+}
+
+.body-text{
+    font-family: 'Raleway', sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+}
