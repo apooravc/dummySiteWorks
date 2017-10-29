@@ -4,7 +4,7 @@ html, body {
 }
 
 .banner{
-   background-image: url(../images/img-banner.JPG);
+   background-image: url(../images/img-banner.jpeg);
    /*
     * Image taken from https://www.pexels.com/photo/set-of-tool-wrench-162553/
     */
@@ -120,7 +120,7 @@ html, body {
   margin-top: 6%;
   height: 370px;
 
-  background-image: url(../images/flatimg1.JPEG);
+  background-image: url(../images/flatimg1.jpeg);
    /*
     * Image taken from https://www.pexels.com/photo/automobile-car-car-repair-classic-190537/
     */
@@ -140,7 +140,7 @@ html, body {
   margin-top: 6%;
   height: 370px;
 
-  background-image: url(../images/flatimg2.JPEG);
+  background-image: url(../images/flatimg2.jpeg);
    /*
     * Image taken from https://www.pexels.com/photo/action-asian-asphalt-auto-539858/
     */
@@ -160,7 +160,7 @@ html, body {
   margin-top: 6%;
   height: 370px;
 
-  background-image: url(../images/flatimg3.JPG);
+  background-image: url(../images/flatimg3.jpg);
    /*
     * Image taken from https://www.pexels.com/photo/cafe-racer-frame-garage-making-1599/
     */
@@ -285,7 +285,7 @@ html, body {
 .sec3{
   margin-top: 22%;
   height: 470px;
-  background-image: url(../images/backimg1.JPEG);
+  background-image: url(../images/backimg1.jpeg);
    /*
     * Image taken from https://www.pexels.com/photo/road-landscape-nature-forest-39811/
     */
@@ -307,7 +307,7 @@ html, body {
 .sec5{
   margin-top: 20%;
   height: 470px;
-  background-image: url(../images/bimg2.JPG);
+  background-image: url(../images/bimg2.jpg);
    /*
     * Image taken from https://pixabay.com/en/car-repair-car-workshop-repair-shop-362150/
     */
@@ -329,7 +329,7 @@ html, body {
 .sec7{
   margin-top: 22%;
   height: 470px;
-  background-image: url(../images/backimg3.JPEG);
+  background-image: url(../images/backimg3.jpeg);
    /*
     * Image taken from https://www.pexels.com/photo/bottle-equipment-factory-fix-280014/
     */
@@ -347,7 +347,7 @@ html, body {
 .sec8{
   margin-top: 22%;
   height: 470px;
-  background-image: url(../images/backimg3.JPEG);
+  background-image: url(../images/backimg3.jpeg);
    /*
     * Image taken from https://www.pexels.com/photo/bottle-equipment-factory-fix-280014/ ()
     */
@@ -366,7 +366,7 @@ html, body {
   margin-top: 22%;
   height: 470px;
   margin-bottom: 22%;
-  background-image: url(../images/backimg3.JPEG);
+  background-image: url(../images/backimg3.jpeg);
    /*
     * Image taken from https://www.pexels.com/photo/bottle-equipment-factory-fix-280014/
     */
